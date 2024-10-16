@@ -24,7 +24,7 @@ public class Circle
         diameter = 68;
         xPosition = 230;
         yPosition = 90;
-        color = "blue";
+        color = "white";
     }
 
     /**
